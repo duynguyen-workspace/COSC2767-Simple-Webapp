@@ -21,6 +21,7 @@
       <p>You can visit the website of School of Science, Engineering and Technology (SSET) of RMIT Vietnam by clicking to the button below!</p>
       <p class"text-success">I just add a new line haha!</p>
       <p class"text-success">Github Webhook successfully installed!</p>
+      <p class"text-danger">Check if private repository credential worked!</p>
       
       <a class="btn btn-primary btn-lg" href="https://www.rmit.edu.vn/about-us/schools-and-centres/school-of-science-engineering-and-technology" role="button">Learn more about SSET</a>
       <a class="btn btn-success btn-lg" href="https://getbootstrap.com/docs/4.3/getting-started/introduction/" role="button">Learn more about Bootstrap CSS Framework</a>
